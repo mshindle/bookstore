@@ -1,10 +1,10 @@
-package dev.irontech.idempotent;
+package dev.irontech.bookstore.order;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IdempotentApplicationTests {
+class OrderApplicationTests {
 
     @Test
     void contextLoads() {
